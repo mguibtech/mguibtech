@@ -45,7 +45,8 @@ Sou amazonense do interior do estado e atualmente moro em Manaus-AM. Decidi entr
   <a href="https://github.com/mguibtech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mguibtech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguibtech&layout=compact&langs_count=7&theme=dark"/>
- 
+  
+ ![Snake animation](https://github.com/mguibtech/mguibtech/blob/output/github-contribution-grid-snake.svg)
  
 ## Contact
   <a href="https://instagram.com/guib_tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -53,4 +54,4 @@ Sou amazonense do interior do estado e atualmente moro em Manaus-AM. Decidi entr
   <a href = "mailto:mguibtch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/mguibtech/mguibtech/blob/output/github-contribution-grid-snake.svg)
+
