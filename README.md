@@ -3,7 +3,7 @@
 
 - 👾 Atualmente trabalho como desenvolvedor mobile
 - 🚀 Sou aluno na Rocketseat
-- 🌱 Sempre estudando | React Native | TypeScript
+- 🌱 Sempre estudando | React Native | TypeScript | Kotlin
 
 ## 👨‍💻🚀 Minha Jornada
 Sou amazonense do interior do estado e atualmente moro em Manaus-AM. Decidi entrar na área de tecnologia quando entrei para Universidade do Estado do Amazonas em 2017. Inicialmente me apaixonei por desenvolver jogos com Construct e Unity 3D. Um ano depois entrei para o LUDUS Lab como desenvolvedor mobile. Atualmente estou encantado com o universo JavaScript<3!!
@@ -26,6 +26,7 @@ Sou amazonense do interior do estado e atualmente moro em Manaus-AM. Decidi entr
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Kotlin-%23026AA7.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 </div>
 
 
