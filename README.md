@@ -4,6 +4,7 @@
 - 👾 Atualmente trabalho como desenvolvedor mobile
 - 🚀 Sou aluno na Rocketseat
 - 🌱 Sempre estudando | React Native | TypeScript | Kotlin
+- 🤖 Sou fascinado em solucionar problemas, principalmente utilizando tecnologias que envolvem web e mobile.
 
 ## 👨‍💻🚀 Minha Jornada
 Sou amazonense do interior do estado e atualmente moro em Manaus-AM. Decidi entrar na área de tecnologia quando entrei para Universidade do Estado do Amazonas em 2017. Inicialmente me apaixonei por desenvolver jogos com Construct e Unity 3D. Um ano depois entrei para o LUDUS Lab como desenvolvedor mobile. Atualmente estou encantado com o universo JavaScript<3!!
