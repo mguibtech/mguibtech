@@ -2,7 +2,6 @@
 ## Hii! Eu sou Marcos Guibson 👋
 
 - 👾 Atualmente trabalho como desenvolvedor mobile
-- 🚀 Sou aluno na Rocketseat
 - 🌱 Sempre estudando | React Native | TypeScript | Kotlin
 - 🤖 Sou fascinado em solucionar problemas, principalmente utilizando tecnologias que envolvem web e mobile.
 
